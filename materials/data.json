@@ -14519,6 +14519,30 @@
       "version": "2026-04-v1",
       "approved_on": "2026-05-01",
       "withdrawn_on": null
+    },
+    {
+      "id": "G7",
+      "institution_id": "I1",
+      "plan_id": "PLAN1",
+      "version": "2026-04-v2",
+      "approved_on": "2026-05-07",
+      "withdrawn_on": null
+    },
+    {
+      "id": "G8",
+      "institution_id": "I2",
+      "plan_id": "PLAN1",
+      "version": "2026-04-v2",
+      "approved_on": "2026-05-07",
+      "withdrawn_on": "2026-05-10"
+    },
+    {
+      "id": "G9",
+      "institution_id": "I3",
+      "plan_id": "PLAN1",
+      "version": "2026-04-v2",
+      "approved_on": "2026-05-07",
+      "withdrawn_on": null
     }
   ],
   "requests": [

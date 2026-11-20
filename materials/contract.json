@@ -69,7 +69,8 @@
       },
       "references": {
         "institution_id": "institutions",
-        "plan_id": "plans"
+        "plan_id": "plans",
+        "version": "versions"
       }
     },
     "requests": {
