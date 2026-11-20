@@ -37,7 +37,7 @@ class MaterialsTests(unittest.TestCase):
 
     def test_source_facts_1(self):
         data, _ = read_materials(self.directory)
-        self.assertTrue(len({x['household'] for x in data['records']})==75 and len(data['records'])==600)
+        self.assertTrue(len({x['household'] for x in data['records']})==75 and len(data['records'])==1200)
 
     def test_source_facts_2(self):
         data, _ = read_materials(self.directory)
